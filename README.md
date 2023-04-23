@@ -2,6 +2,8 @@
 
 
 ### This site is forked from Trevor Bedford's lab (https://bedford.io) on github [pages](https://github.com/blab/blotter). 
+Some layouts (such as member's page) are modified from Drummond Lab (http://drummondlab.org) github pages template. 
+
 
 ## Instructions on building the site (on mac):
 
