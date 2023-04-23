@@ -1,30 +1,30 @@
-# bedford lab research
+# Jiang lab Website
 
-## Build site
 
-To build the website locally, clone the repo with:
+### This site is forked from Trevor Bedford's lab (https://bedford.io) on github [pages](https://github.com/blab/blotter). 
 
-```
-git clone https://github.com/blab/blotter.git
-```
+## Instructions on building the site (on mac):
 
-Then install necessary Ruby dependencies by running `bundle install` from within the `blotter` directory.  After this, the site can be be built with:
+- Clone this repository to local directory:
 
-```
-bundle exec jekyll build
-```
+`git clone https://pyjiang:[personalkey]@github.com/pyjiang/pjianglab.github.io`
 
-(If you are getting errors at this stage, it may be due to your version of `bundle`. Try `gem uninstall bundler` + `gem install bundler -v 1.13.1`.)
+- Then install Jekyll
 
-To view the site, run `bundle exec jekyll serve` and point a browser to `http://localhost:4000/`.  More information on Jekyll can be found [here](http://jekyllrb.com/).
+Instructions to install [Jekyll](https://jekyllrb.com/docs/installation/macos/)
 
-To include projects, preprocessing scripts are necessary to clone project repos and update Jekyll metadata. This can be accomplished with:
+Note that if you have installed different versions of Jekyll, you can run into conflict. 
 
-```
-ruby _scripts/update-and-preprocess.rb
-```
+- Test if local repository is run successfully
 
-Then `jekyll build` works as normal.
+`bundle exec jekyll serve`
+
+Browse to http://localhost:4000 to check your site locally. 
+
+If run into `webrick` error, fix by `bundle add webrick`. (https://jekyllrb.com/docs/)
+
+
+
 
 ## Contribute
 
