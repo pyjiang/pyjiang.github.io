@@ -1,10 +1,10 @@
-$primary: #DD2D2D;
-$gray: #555;
+$primary: #f25042;
+$gray: #555; // text color on the nav bar
 $gray-light: #777;
 $line-height-base: 1.6;
 $font-size-base: 0.875rem;
 $font-weight-bolder: bold;
-$body-bg: #ffffff;
+$body-bg: #f9f4ef; //background for the site
 $code-color: #586E75;
 $pre-color: #586E75;
 $code-font-size: 90%;
@@ -15,10 +15,10 @@ $breadcrumb-padding-x: 0.0rem;
 $breadcrumb-active-color: #000000;
 $navbar-brand-font-size: 30px;
 $navbar-brand-padding-y: 0.0rem;
-$navbar-light-color: $gray-light;
+$navbar-light-color: #eaddcf;
 $navbar-padding-y: 0.0rem;
 $nav-pills-link-active-color: #555;
-$nav-pills-link-active-bg: #e7e7e7;
+$nav-pills-link-active-bg: #fffffe; //background color for the active tab in the nav bar
 $nav-pills-border-radius: 0px;
 
 h1, .h1 { font-size: floor($font-size-base * 2.50); } /* ~34px */
@@ -82,20 +82,21 @@ b, strong {
 /* logo */
 
 .logo {
-	width: 50px;
-	height: 50px;
+	width: 95px;
+	height: 52px;
 }
 
 .biglogo {
-	width: 170px;
-	height: 170px;
-	padding: 5px;
+	width: 350px;
+	height: 280px;
+	padding: 10px;
 }
 
 .logobox {
-	height: 170px;
+	height: 280px;
 	display: table-cell;
 	vertical-align: middle;
+	padding: 30px;
 }
 
 /* navbar */
@@ -118,7 +119,7 @@ b, strong {
 }
 
 .bg-navbar {
-  background: #f8f8f8;
+  background: $navbar-light-color;
   border-bottom: 1px solid #e7e7e7;
 }
 
@@ -339,6 +340,7 @@ blockquote {
 .pad-left {
 	padding-left: 10px;
 }
+
 
 #footer {
 	height: 80px;
