@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # jekyll
-gem "jekyll", "3.1.3"
+gem "jekyll", "4.2.0"
 
 # katex
 gem "execjs"
