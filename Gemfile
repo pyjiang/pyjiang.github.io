@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # jekyll
-gem "jekyll", "4.2.0"
+gem "jekyll", "3.1.3"
 
 # katex
 gem "execjs"
@@ -16,3 +16,5 @@ gem 'jekyll-twitter-plugin'
 # Install required dependency that is no longer bundled with Ruby 3.
 # For more details, see https://github.com/jekyll/jekyll/issues/8523
 gem 'webrick'
+
+gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
