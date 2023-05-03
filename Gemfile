@@ -17,4 +17,4 @@ gem 'jekyll-twitter-plugin'
 # For more details, see https://github.com/jekyll/jekyll/issues/8523
 gem 'webrick'
 
-#gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
+gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
