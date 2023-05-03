@@ -1,6 +1,6 @@
 name: Jiang Lab Research
 description: Science website on molecular mechanisms of Evolution 
-url: https://pyjiang.github.io/pjianglab.github.io/
+url: https://pyjiang.github.io/pjianglab/
 
 markdown: kramdown
 permalink: /:categories/:title/
@@ -9,6 +9,9 @@ sass:
   sass_dir: css
 
 plugins: ['jekyll-twitter-plugin']
+
+include:
+  - research
 
 exclude:
   - "*.branches"
@@ -41,4 +44,5 @@ exclude:
   - "*.zip"
   - "Gemfile"
   - "Gemfile.lock"
+
 

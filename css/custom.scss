@@ -74,6 +74,22 @@ h6 {
   text-align: center;
 }
 
+// PJ added image container, to align image to the top center 
+.image-container {
+	width: 480px;
+	height: 350px;
+	position: relative;
+  }
+  
+  .image-container img {
+	position: absolute;
+	vertical-align: top;
+ 	margin: auto;
+  	display: block;
+  	width: 90%;
+  	height: auto;
+  }
+
 // also modify Bootstrap source in _reboot.scss
 b, strong {
   font-weight: bold;
@@ -187,6 +203,7 @@ b, strong {
 	line-height: 23px;
 	/* Museo */
 }
+
 
 .note {
 	font-size: 15px;
