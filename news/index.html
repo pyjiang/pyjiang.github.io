@@ -33,7 +33,9 @@ category: blog
 
 	<div class="blog-post">
 		<div class="row">
-			<div class="col-lg-1"></div>
+			<div class="col-lg-1">
+				<img class="newslogo" src="{{ post.image }}">
+			</div>
 			<div class="col-lg-10">
 				<div class="media">
 					<div class="media-body">
@@ -88,15 +90,6 @@ category: blog
 		<div class="row">
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
-				{% if post.image %}
-				{% if post.link %}
-				<a href="{{ post.link }}">
-					<img class="newslogo" src="{{ post.image }}">
-				</a>
-				{% else %}
-				<img class="newslogo" src="{{ post.image }}">
-				{% endif %}
-				{% endif %}
 				<div class="post">
 					{{ post.content }}
 				</div>

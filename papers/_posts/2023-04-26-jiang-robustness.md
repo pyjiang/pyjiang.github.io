@@ -7,7 +7,7 @@ year: 2023
 ref: Jiang et al. 2023. JEB.
 journal: "Journal of Evolutionary Biology"
 pdf: /pdfs/papers/tran-kiem-transmission-heterogeneity.pdf
-doi: 10.1101/2023.04.05.23287263
+doi: 10.1111/JEB.14180
 github: https://github.com/pyjiang/ct_fwdpp
 ---
 
