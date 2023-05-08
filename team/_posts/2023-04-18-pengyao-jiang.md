@@ -20,6 +20,5 @@ She did her  Ph. D. at the Department of Ecology and Evolution of the University
 
 
 [Biodesgin Center for Mechnisms of Evolution]: https://biodesign.asu.edu/mechanisms-of-evolution/
-[Dr. Kelley Harris]: https://sites.google.com/site/harriskelley/home
-[Dr. Maitreya Dunham]: https://dunham.gs.washington.edu/
-
+[Dr. Kelley Harris]: https://www.gs.washington.edu/faculty/harris.htm
+[Dr. Maitreya Dunham]: https://www.gs.washington.edu/faculty/dunham.htm
