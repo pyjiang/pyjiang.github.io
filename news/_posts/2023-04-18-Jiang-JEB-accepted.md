@@ -11,7 +11,7 @@ Pengyao's [paper] constructed a pure theoretical model that explores the general
 
 
 
-[paper]: /papers/paper/chaperones-disperse
+[paper]: /papers/jiang-robustness/
 [JEB]: https://onlinelibrary.wiley.com/journal/14209101
 [John]: https://camb.uchicago.edu/program/faculty/john-reinitz
 [Marty]: https://openwetware.org/wiki/Kreitman:Contact
