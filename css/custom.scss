@@ -90,6 +90,23 @@ h6 {
   	height: auto;
   }
 
+// PJ added imgae container for small images for paper 
+.sm-image-container {
+	width: 180px;
+	height: 180px;
+	position: relative;
+  }
+  
+  .sm-image-container img {
+	position: absolute;
+	vertical-align: top;
+ 	margin: auto;
+  	display: block;
+  	width: 90%;
+  	height: auto;
+  }
+
+
 // also modify Bootstrap source in _reboot.scss
 b, strong {
   font-weight: bold;

@@ -66,14 +66,6 @@
 				</button>
 				<div class="collapse navbar-collapse" id="navbarNav">
 					<ul class="navbar-nav nav-pills ml-auto">
-						{% if page.categories.first == 'blog' %}
-						<li class="nav-link active">
-						{% else %}
-						<li class="nav-link">
-						{% endif %}
-						<a class="mx-1" href="/news/">news</a>
-						</li>
-
 						{% if page.categories.first == 'research' %}
 						<li class="nav-link active">
 						{% else %}
@@ -96,6 +88,14 @@
 						<li class="nav-link">
 						{% endif %}
 						<a class="mx-1" href="/papers/">papers</a>
+						</li>
+
+						{% if page.categories.first == 'teaching' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="/teaching/teaching">teaching</a>
 						</li>
 
 					    {% if page.categories.first == 'misc' %}

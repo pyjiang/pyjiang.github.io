@@ -13,10 +13,13 @@ alum: false
 ---
 Pengyao is an incoming Assistant Professor at the [Biodesgin Center for Mechnisms of Evolution] at Arizona State University. She is going to start her position in January 2024. 
 
-Before starting her own lab, Pengyao worked as a postdoctoral scholar in the Department of Genome Sciences at the University of Washington, working with Dr. Kelley Harris and Dr. Maitreya Dunham. 
+Before starting her own lab, Pengyao worked as a postdoctoral scholar in the Department of Genome Sciences at the University of Washington, working with 
+[Dr. Kelley Harris] and [Dr. Maitreya Dunham]. 
 
 She did her  Ph. D. at the Department of Ecology and Evolution of the University of Chicago (2010-2017), working with Dr. John Reinitz and Dr. Martin Kreitman. 
 
 
 [Biodesgin Center for Mechnisms of Evolution]: https://biodesign.asu.edu/mechanisms-of-evolution/
+[Dr. Kelley Harris]: https://sites.google.com/site/harriskelley/home
+[Dr. Maitreya Dunham]: https://dunham.gs.washington.edu/
 
