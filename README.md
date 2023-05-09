@@ -14,7 +14,7 @@ and easy maintanance for research labs.
 
 `git clone https://github.com/pyjiang/pyjiang.github.io`
 
-- Then install Jekyll
+- Then install Jekyll (I install Jekyll 3.1.3 locally and it runs fine. In the Gemfile, it uses 4.2.0 when building from github pages.)
 
 Instructions to install [Jekyll](https://jekyllrb.com/docs/installation/macos/)
 
