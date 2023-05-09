@@ -12,7 +12,7 @@ and easy maintanance for research labs.
 
 - Clone this repository to local directory:
 
-`git clone https://pyjiang:[personalkey]@github.com/pyjiang/pjianglab.github.io`
+`git clone https://github.com/pyjiang/pyjiang.github.io`
 
 - Then install Jekyll
 
