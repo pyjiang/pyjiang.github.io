@@ -13,6 +13,9 @@ gem 'netrc'
 # Twitter
 gem 'jekyll-twitter-plugin'
 
+# last modified 
+gem 'jekyll-last-modified-at'
+
 # Install required dependency that is no longer bundled with Ruby 3.
 # For more details, see https://github.com/jekyll/jekyll/issues/8523
 gem 'webrick'
