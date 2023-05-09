@@ -50,3 +50,5 @@ defaults:
       path: ""
     values:
       last_modified_at: "{{ site.time }}"
+
+      timezone: America/Los_Angeles
