@@ -16,9 +16,11 @@ Pengyao is an incoming Assistant Professor at the [Biodesgin Center for Mechnism
 Before starting her own lab, Pengyao worked as a postdoctoral scholar in the Department of Genome Sciences at the University of Washington, working with 
 [Dr. Kelley Harris] and [Dr. Maitreya Dunham]. 
 
-She did her  Ph. D. at the Department of Ecology and Evolution of the University of Chicago (2010-2017), working with Dr. John Reinitz and Dr. Martin Kreitman. 
+She did her  Ph. D. at the Department of Ecology and Evolution of the University of Chicago (2010-2017), working with [Dr. John Reinitz] and [Dr. Martin Kreitman]. 
 
 
 [Biodesgin Center for Mechnisms of Evolution]: https://biodesign.asu.edu/mechanisms-of-evolution/
 [Dr. Kelley Harris]: https://www.gs.washington.edu/faculty/harris.htm
 [Dr. Maitreya Dunham]: https://www.gs.washington.edu/faculty/dunham.htm
+[Dr. John Reinitz]: https://camb.uchicago.edu/program/faculty/john-reinitz
+[Dr. Martin Kreitman]: https://openwetware.org/wiki/Kreitman:Contact
