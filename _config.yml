@@ -7,8 +7,11 @@ permalink: /:categories/:title/
 future: true
 sass:
   sass_dir: css
+timezone: America/Los_Angeles
 
-plugins: ['jekyll-twitter-plugin']
+plugins: 
+ - jekyll-twitter-plugin
+ - jekyll-last-modified-at
 
 include:
   - research
@@ -44,11 +47,5 @@ exclude:
   - "*.zip"
 
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      last_modified_at: "{{ site.time }}"
 
-      timezone: America/Los_Angeles
+      
