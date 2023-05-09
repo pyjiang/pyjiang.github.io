@@ -13,8 +13,11 @@ gem 'netrc'
 # Twitter
 gem 'jekyll-twitter-plugin'
 
-# last modified 
-gem 'jekyll-last-modified-at'
+# use jekyll "last modified" plugin
+# https://github.com/gjtorikian/jekyll-last-modified-at
+group :jekyll_plugins do
+    gem 'jekyll-last-modified-at'
+  end
 
 # Install required dependency that is no longer bundled with Ruby 3.
 # For more details, see https://github.com/jekyll/jekyll/issues/8523
