@@ -4,7 +4,7 @@
 ### This site is forked from Trevor Bedford's lab (https://bedford.io) on github [pages](https://github.com/blab/blotter). 
 Some layouts are modified from Drummond Lab (http://drummondlab.org) github pages template. 
 
-I deeply appreciate their efforts in building such awesome website templates with mimimalist design with powerful functions, 
+I deeply appreciate their efforts in building such awesome website templates with minimalist designs with powerful functions, 
 and easy maintanance for research labs. 
 
 
