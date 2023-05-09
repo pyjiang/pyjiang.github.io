@@ -44,3 +44,9 @@ exclude:
   - "*.zip"
 
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      last_modified_at: "{{ site.time }}"
