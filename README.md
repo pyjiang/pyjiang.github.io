@@ -2,16 +2,19 @@
 
 
 ### This site is forked from Trevor Bedford's lab (https://bedford.io) on github [pages](https://github.com/blab/blotter). 
-Some layouts (such as member's page) are modified from Drummond Lab (http://drummondlab.org) github pages template. 
+Some layouts are modified from Drummond Lab (http://drummondlab.org) github pages template. 
+
+I deeply appreciate their efforts in building such awesome website templates with minimalist designs with powerful functions, 
+and easy maintanance for research labs. 
 
 
 ## Instructions on building the site (on mac):
 
 - Clone this repository to local directory:
 
-`git clone https://pyjiang:[personalkey]@github.com/pyjiang/pjianglab.github.io`
+`git clone https://github.com/pyjiang/pyjiang.github.io`
 
-- Then install Jekyll
+- Then install Jekyll (I install Jekyll 3.1.3 locally and it runs fine. In the Gemfile, it uses 4.2.0 when building from github pages.)
 
 Instructions to install [Jekyll](https://jekyllrb.com/docs/installation/macos/)
 
