@@ -3,7 +3,7 @@ layout: member
 title: "Pengyao Jiang"
 position: Principal investigator
 handle: pyjiang
-email: pyjiang2@gmail.com
+email: Pengyao.Jiang@asu.edu
 twitter: pyjiang
 github: pyjiang
 scholar: -7lEAxLwAAAAJ
