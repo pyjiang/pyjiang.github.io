@@ -8,7 +8,7 @@ twitter: pyjiang
 github: pyjiang
 scholar: -7lEAxLwAAAAJ
 image: /images/team/pengyao-jiang-2023-04-18.jpg
-cv: /pdfs/team/CV_Pengyao_Jiang_job_12.6.22.pdf
+cv: /pdfs/team/CV_Pengyao_Jiang_5.16.23.pdf
 alum: false
 ---
 Pengyao is an incoming Assistant Professor at the [Biodesgin Center for Mechnisms of Evolution] at Arizona State University. She is going to start her position in January 2024. 
