@@ -6,7 +6,7 @@ handle: pyjiang
 email: Pengyao.Jiang@asu.edu
 twitter: pyjiang
 github: pyjiang
-scholar: -7lEAxLwAAAAJ
+scholar: 7lEAxLwAAAAJ
 image: /images/team/pengyao-jiang-2023-04-18.jpg
 cv: /pdfs/team/CV_Pengyao_Jiang_11.29.23.pdf
 alum: false
