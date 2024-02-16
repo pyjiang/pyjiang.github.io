@@ -8,7 +8,7 @@ twitter: pyjiang
 github: pyjiang
 scholar: 7lEAxLwAAAAJ
 image: /images/team/pengyao-jiang-2023-04-18.jpg
-cv: /pdfs/team/CV_Pengyao_Jiang_11.29.23.pdf
+cv: /pdfs/team/CV_Pengyao_Jiang_2.15.24.pdf
 alum: false
 ---
 Pengyao is an Assistant Professor at the [Biodesign Center for Mechanisms of Evolution] and [School of Life Sciences] at Arizona State University, who started her position in January 2024.
