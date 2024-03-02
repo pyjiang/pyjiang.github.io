@@ -7,7 +7,7 @@ image: /images/team/tianyu.jpg
 alumni: false
 ---
 
-Tianyu is the first official member in the Jiang Lab! Tianyu obtained his bachelor's degree
+Tianyu is the first official member in the Jiang Lab, starting September 2023. Tianyu obtained his bachelor's degree
 in Computer Science and Mathematics from the University of Maryland,
 with a focus of Machine Learning. He is interested in applying computer science/machine learning/statistics
 on intriguing biological questions. In the Jiang lab, he is exploring applying machine learning methods on
