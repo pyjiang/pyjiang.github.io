@@ -2,7 +2,7 @@
 layout: member
 title: Tianyu Zhang
 position: Research assistant
-handle: vidha
+handle: tianyu
 image: /images/team/tianyu.jpg
 alumni: false
 ---
