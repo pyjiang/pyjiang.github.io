@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Corrine Penrose
-position: Lab Manager
+position: Lab manager
 handle: corrine
 image: /images/team/corrine.jpg
 alumni: false
