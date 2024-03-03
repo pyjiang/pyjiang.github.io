@@ -3,7 +3,7 @@ layout: member
 title: Shreya Satheesh
 position: Undergraduate research assistant
 handle: shreya
-image: /images/team/shreya.png
+image: /images/team/shreya.jpg
 alumni: false
 ---
 
