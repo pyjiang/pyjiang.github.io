@@ -3,6 +3,7 @@ layout: member
 title: Corrine Penrose
 position: Lab manager
 handle: corrine
+email: cechapa@asu.edu
 image: /images/team/corrine.jpg
 alumni: false
 ---
