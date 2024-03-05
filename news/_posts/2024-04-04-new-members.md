@@ -7,7 +7,7 @@ image: /images/news-icon.png
 category: blog
 tags: [news]
 ---
-Welcome two new staff members [Valeria] and [Corrine], and four undergraduate research assistants -- [Pratham],[Chetan], [Amanda] and [Shreya] to the Jiang Lab! 
+Welcome two new staff members [Valeria] and [Corrine], and four undergraduate research assistants -- [Pratham], [Chetan], [Amanda] and [Shreya] to the Jiang Lab! 
 
 
 
