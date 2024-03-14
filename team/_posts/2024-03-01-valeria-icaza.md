@@ -4,7 +4,7 @@ title: Valeria Icaza
 position: Senior research specialist
 handle: valeria
 email: vicaza@asu.edu
-image: /images/team/valeria.jpg
+image: /images/team/valeria.jpeg
 alumni: false
 ---
 
