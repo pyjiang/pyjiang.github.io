@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "So much news today!"
+title: "First amplicon sequencing with plasmidsaurus"
 author: "Pengyao Jiang"
 author_handle: pyjiang
 image: /images/news-icon.png
