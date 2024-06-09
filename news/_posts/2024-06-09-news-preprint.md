@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preprint posted on the URA6!"
+title: "Preprint posted on the URA6 mutants!"
 author: "Pengyao Jiang"
 author_handle: pyjiang
 image: /images/news-icon.png
