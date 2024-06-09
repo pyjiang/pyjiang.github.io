@@ -7,6 +7,7 @@ year: 2023
 ref: Jiang P et al. 2023. JEB.
 journal: "Journal of Evolutionary Biology"
 doi: 10.1111/JEB.14180
+pdf: /pdfs/paper/jiang-jeb-2023.pdf
 github: https://github.com/pyjiang/ct_fwdpp
 ---
 
