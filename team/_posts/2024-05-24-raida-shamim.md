@@ -2,7 +2,7 @@
 layout: member
 title: Raida Shamim
 position: Undergraduate research assistant
-handle: pratham
+handle: raida
 image: /images/team/raida.jpg
 alumni: false
 ---
