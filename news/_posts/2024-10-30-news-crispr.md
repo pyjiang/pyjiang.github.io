@@ -8,7 +8,6 @@ category: blog
 tags: [news]
 ---
 
-[Amanda] has confirmed the successful construction of a CRISPR plasmid! 
+Amanda has confirmed the successful construction of a CRISPR plasmid! 
 
 
-[Amanda]:https://pyjiang.github.io/team/amanda-le/
