@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Successful running of snakemake of SOL"
+title: "Successful running of snakemake on SOL"
 author: "Pengyao Jiang"
 author_handle: pyjiang
 image: /images/news-icon.png
