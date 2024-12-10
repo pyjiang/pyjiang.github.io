@@ -4,7 +4,7 @@ title: Chetan Bagra
 position: Undergraduate research assistant
 handle: chetan
 image: /images/team/chetan.jpg
-alumni: false
+alumni: true
 ---
 
 Chetan is an undergraduate student at Arizona State University pursuing a major in Biomedical Sciences. 
