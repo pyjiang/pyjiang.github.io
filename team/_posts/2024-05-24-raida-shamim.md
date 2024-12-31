@@ -4,7 +4,7 @@ title: Raida Shamim
 position: Undergraduate research assistant
 handle: raida
 image: /images/team/raida.jpg
-alumni: false
+alumni: true
 ---
 
 
