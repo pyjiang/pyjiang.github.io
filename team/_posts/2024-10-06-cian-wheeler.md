@@ -2,7 +2,7 @@
 layout: member
 title: Cian Wheeler
 position: Undergraduate research assistant
-handle: rosalie
+handle: cian
 image: /images/team/cian.jpg
 alumni: false
 ---
