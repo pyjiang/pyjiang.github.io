@@ -17,6 +17,8 @@ gem 'jekyll-twitter-plugin'
 
 # Install required dependency that is no longer bundled with Ruby 3.
 # For more details, see https://github.com/jekyll/jekyll/issues/8523
-gem 'webrick'
+# update version for security reason
+# https://github.com/pyjiang/pyjiang.github.io/security/dependabot/7
+gem "webrick", ">= 1.8.2"
 
 #gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
