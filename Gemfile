@@ -13,6 +13,9 @@ gem 'netrc'
 # Twitter
 gem 'jekyll-twitter-plugin'
 
+# security fix
+# https://github.com/pyjiang/pyjiang.github.io/security/dependabot/6
+gem "rexml", ">= 3.3.9"
 
 
 # Install required dependency that is no longer bundled with Ruby 3.
