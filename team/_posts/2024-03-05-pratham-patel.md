@@ -4,7 +4,7 @@ title: Pratham Kashyap Patel
 position: Undergraduate research assistant
 handle: pratham
 image: /images/team/pratham.png
-alumni: false
+alumni: true
 ---
 
 
