@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Successful running of snakemake on SOL"
+title: "First undergraduate thesis defense from the lab"
 author: "Pengyao Jiang"
 author_handle: pyjiang
 image: /images/news-icon.png
