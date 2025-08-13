@@ -25,3 +25,5 @@ gem "rexml", ">= 3.3.9"
 gem "webrick", ">= 1.8.2"
 
 #gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
+
+gem "uri", ">= 1.0.3"
