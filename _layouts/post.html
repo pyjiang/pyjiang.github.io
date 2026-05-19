@@ -60,12 +60,23 @@ layout: default
 		<div class="col-lg-1"></div>
 		<div class="col-lg-10">
 			{% if page.image %}
+			{% if page.image_size == "large" %}
 			{% if page.link %}
 			<a href="{{ page.link }}">
-				<img class="newslogo" src="{{ page.image }}">
+				<img class="news-large-image" src="{{ page.image }}" alt="{{ page.title }}">
 			</a>
 			{% else %}
-			<img class="newslogo" src="{{ page.image }}">
+			<img class="news-large-image" src="{{ page.image }}" alt="{{ page.title }}">
+			{% endif %}
+			<div class="smallspacer"></div>
+			{% else %}
+			{% if page.link %}
+			<a href="{{ page.link }}">
+				<img class="newslogo" src="{{ page.image }}" alt="{{ page.title }}">
+			</a>
+			{% else %}
+			<img class="newslogo" src="{{ page.image }}" alt="{{ page.title }}">
+			{% endif %}
 			{% endif %}
 			{% endif %}
 			<div class="post">

@@ -4,6 +4,7 @@ title: "First lab photo taken"
 author: "Pengyao Jiang"
 author_handle: pyjiang
 image: /images/lab_photo_2026.jpg
+image_size: large
 category: blog
 tags: [news]
 ---
