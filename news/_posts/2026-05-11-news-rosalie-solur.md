@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "first-place in Undergraduate Poster Presentation"
+title: "First-place in Undergraduate Poster Presentation"
 author: "Pengyao Jiang"
 author_handle: pyjiang
 image: /images/news-icon.png
