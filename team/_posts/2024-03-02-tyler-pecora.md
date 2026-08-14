@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Tyler Pecora
-position: incoming PhD student
+position: PhD student
 handle: tyler
 image: /images/team/tyler.jpg
 alumni: false
